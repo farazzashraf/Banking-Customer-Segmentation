@@ -1,4 +1,4 @@
-"# Bank-Customer-Segmentation-Analysis" 
+# Bank-Customer-Segmentation-Analysis 
 
 ## Objective
 The objective of this project is to analyze and segment customers based on various demographic, financial, and behavioral attributes. By identifying distinct customer segments, the goal is to derive actionable insights that can inform targeted marketing strategies and improve customer engagement and retention.
